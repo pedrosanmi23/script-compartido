@@ -9,3 +9,5 @@ else
 		echo "$1*$i=$TOTAL"
 	done
 fi
+
+echo "cambio del conflicto"
